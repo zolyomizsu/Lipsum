@@ -1,0 +1,14 @@
+.container{
+  width: 300px;
+  margin: auto;
+  
+}
+.section{
+  border: solid thin black;
+  padding: 20px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.section:hover{
+  background: orange;
+}
